@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Achit Siddhu</h1>
-<h3 align="center">Dedicated and versatile tester with a comprehensive understanding of various testing methodologies, aspiring QA professional with expertise in technical skills, including proficiency in various testing types, Manual Testing and automation tools like Selenium WebDriver with Python. Dedicated to staying updated on industry trends and collaborating effectively with developers for optimal software quality.</h3>
+<h3 align="center">Dedicated and versatile tester with a comprehensive understanding of various testing methodologies, aspiring QA professional with expertise in technical skills, including proficiency in various testing types, Manual Testing and Automation tools like Selenium WebDriver with Python. Dedicated to staying updated on industry trends and collaborating effectively with developers for optimal software quality.</h3>
 
 - 🔭 I’m currently working on **SeleniumWebDriver+Python**
 
