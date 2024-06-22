@@ -20,7 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asiddhu09&show_icons=true&locale=en" alt="asiddhu09" /></p>
 
 
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
